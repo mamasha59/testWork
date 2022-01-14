@@ -1,0 +1,14 @@
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.about-us {
+}
+.about-us__block {
+    display: flex;
+    justify-content: space-between;
+}
+.about-us__logo {
+}
+.about-us__language {
+}
